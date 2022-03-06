@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Practica2_ArtistList</string>
+    <string name="sin_registro">No hay registro de artistas</string>
+    <string name="Name">Nombre</string>
+    <string name="Genre">Genero Musical</string>
+    <string name="schedule">Horario</string>
+    <string name="hint_stage">Escenario</string>
+    <string name="item1">wasteLAND</string>
+    <string name="item2">DOS EQUIS STAGE</string>
+    <string name="item3">kineticFIELD</string>
+    <string name="item4">circuitGROUNDS</string>
+    <string name="item5">neonGARDEN</string>
+    <string name="seleccion_stage1">Ha seleccionado wasteLAND</string>
+    <string name="seleccion_stage2">Ha seleccionado DOS EQUIS STAGE</string>
+    <string name="seleccion_stage3">Ha seleccionado kineticFIELD</string>
+    <string name="seleccion_stage4">Ha seleccionado circuitGROUNDS</string>
+    <string name="seleccion_stage5">Ha seleccionado neonGARDEN</string>
+    <string name="hint_name">Nombre del artista</string>
+    <string name="hint_genre">Género musical</string>
+    <string name="hint_schedule">Horario</string>
+    <string name="add">Agregar</string>
+    <string name="error_campo">Valor requerido</string>
+    <string name="borrar">Borrar</string>
+    <string name="editar">Editar</string>
+    <string name="update">Actualizar</string>
+    <string name="stage">Escenario</string>
+    <string-array name="stage_list">
+        <item>@string/item1</item>
+        <item>@string/item2</item>
+        <item>@string/item3</item>
+        <item>@string/item4</item>
+        <item>@string/item5</item>
+    </string-array>
+</resources>
